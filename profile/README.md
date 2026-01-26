@@ -8,4 +8,4 @@ Check out the agency’s [Open Source Policy](https://github.com/CMSgov/cms-open
 
 If you would like to create a new project, use our [repository templates](https://github.com/DSACMS/repo-scaffolder).
 
-If you would like to join the CMS-Enterprise organization, or would like to suggest some others to join, file a ticket in our help desk.
+If you would like to join the CMS-Enterprise organization, or would like to suggest some others to join, [file a ticket in our help desk](https://jiraent.cms.gov/servicedesk/customer/portal/4).
